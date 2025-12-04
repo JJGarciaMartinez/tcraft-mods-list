@@ -4,20 +4,20 @@
     "version": "1.0.0",
     "descripcion": "This is an example mod for demonstration purposes.",
     "autor": "John Doe",
-    "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mod-list/main/modList/mods/reimagined-crafting-1.4.jar"
+    "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/reimagined-crafting-1.4.jar"
   },
   {
     "nombre": "example-mod.jar",
     "version": "2.1.3",
     "descripcion": "An example mod to showcase the mod list structure.",
     "autor": "Jane Smith",
-    "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mod-list/main/modList/mods/reimagined-crafting-1.4.jar"
+    "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/reimagined-crafting-1.4.jar"
   },
   {
     "nombre": "another-mod.jar",
     "version": "0.9.5",
     "descripcion": "Another example mod for testing.",
     "autor": "Alice Johnson",
-    "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mod-list/main/modList/mods/reimagined-crafting-1.4.jar"
+    "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/reimagined-crafting-1.4.jar"
   }
 ]
