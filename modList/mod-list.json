@@ -1,20 +1,27 @@
 {
   "mod_pack_name": "TCraft Mod Pack",
-  "mod_pack_version": "test-beta-1.0.0",
+  "mod_pack_version": "test-beta-1.0.1",
   "mods": [
     {
       "name": "create-mod.jar",
       "version": "6.0.8",
       "description": "Create is a mod that adds a variety of new mechanical components and systems to Minecraft, allowing players to build complex contraptions and machines.",
       "author": "simibubi",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/create-1.20.1-6.0.8.jar"
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/create-1.21.1-6.0.8.jar"
+    },
+    {
+      "name": "curios-api.jar",
+      "version": "9.5.1",
+      "description": "Curios is a mod that introduces a new inventory system in Minecraft, allowing players to equip and manage various accessories and items in additional slots.",
+      "author": "TheIllusiveC4",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/curios-neoforge-9.5.1+1.21.1.jar"
     },
     {
       "name": "FarmersDelight.jar",
-      "version": "1.2.4",
+      "version": "1.2.9",
       "description": "Farmer's Delight is a mod that enhances the farming and cooking experience in Minecraft by adding new crops, food items, and cooking mechanics.",
       "author": "vectorwing",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/FarmersDelight-1.21-1.2.4.jar"
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/FarmersDelight-1.21.1-1.2.9.jar"
     },
     {
       "name": "jei-1.21.1.jar",
@@ -24,25 +31,25 @@
       "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/jei-1.21.1-neoforge-19.25.1.332.jar"
     },
     {
-      "name": "sophisticatedbackpacks-1.21.jar",
-      "version": "19.25.1.332",
+      "name": "sophisticatedbackpacks-1.21.1.jar",
+      "version": "3.25.18.1444",
       "description": "Sophisticated Backpacks is a mod that adds customizable backpacks to Minecraft, allowing players to carry more items and organize their inventory efficiently.",
       "author": "P3pp3rF1y",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/sophisticatedbackpacks-1.21-3.20.26.1151.jar"
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/sophisticatedbackpacks-1.21.1-3.25.18.1444.jar"
     },
     {
-      "name": "sophisticatedcore-1.21.jar",
-      "version": "19.25.1.332",
+      "name": "sophisticatedcore-1.21.1.jar",
+      "version": "1.3.94.1295",
       "description": "Sophisticated Core is a mod that provides core functionalities and libraries for the Sophisticated Backpacks mod, ensuring smooth integration and performance.",
       "author": "P3pp3rF1y",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/sophisticatedcore-1.21-0.7.13.797.jar"
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/sophisticatedcore-1.21.1-1.3.94.1295.jar"
     },
     {
       "name": "XaerosWorldMap.jar",
-      "version": "1.39.4",
+      "version": "1.39.12",
       "description": "Xaero's World Map is a mod that adds a detailed world map to Minecraft, helping players navigate and explore their surroundings more effectively.",
       "author": "Xaero96",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/XaerosWorldMap_1.39.4_NeoForge_1.21.jar"
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/XaerosWorldMap_1.39.12_NeoForge_1.21.jar"
     }
   ]
 }
