@@ -1,62 +1,48 @@
 {
-  "mod_pack_name": "Example Mod Pack",
-  "mod_pack_version": "1.0.0",
+  "mod_pack_name": "TCraft Mod Pack",
+  "mod_pack_version": "test-beta-1.0.0",
   "mods": [
     {
-      "name": "reimagined-crafting-1.4.jar",
-      "version": "1.0.0",
-      "description": "This is an example mod for demonstration purposes.",
-      "author": "John Doe",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/reimagined-crafting-1.4.jar"
+      "name": "create-mod.jar",
+      "version": "6.0.8",
+      "description": "Create is a mod that adds a variety of new mechanical components and systems to Minecraft, allowing players to build complex contraptions and machines.",
+      "author": "simibubi",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/create-1.20.1-6.0.8.jar"
     },
     {
-      "name": "cloth-config.jar",
-      "version": "19.0.147",
-      "description": "Cloth Config is a configuration library for Minecraft mods.",
-      "author": "shedaniel",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/cloth-config-19.0.147-fabric.jar"
+      "name": "FarmersDelight.jar",
+      "version": "1.2.4",
+      "description": "Farmer's Delight is a mod that enhances the farming and cooking experience in Minecraft by adding new crops, food items, and cooking mechanics.",
+      "author": "vectorwing",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/FarmersDelight-1.21-1.2.4.jar"
     },
     {
-      "name": "fabric-api.jar",
-      "version": "0.128.2+1.21.6",
-      "description": "Fabric API is a core library for Minecraft Fabric mods.",
-      "author": "Fabric Team",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/fabric-api-0.128.2+1.21.6.jar"
+      "name": "jei-1.21.1.jar",
+      "version": "19.25.1.332",
+      "description": "Just Enough Items (JEI) is a mod that provides an in-game recipe viewer and item list, making it easier for players to discover crafting recipes and item uses.",
+      "author": "mezz",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/jei-1.21.1-neoforge-19.25.1.332.jar"
     },
     {
-      "name": "jade-fabric.jar",
-      "version": "1.21.8-Fabric-19.3.2",
-      "description": "Jade is a mod that provides a better way to view item information.",
-      "author": "Jade Team",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/Jade-1.21.8-Fabric-19.3.2.jar"
+      "name": "sophisticatedbackpacks-1.21.jar",
+      "version": "19.25.1.332",
+      "description": "Sophisticated Backpacks is a mod that adds customizable backpacks to Minecraft, allowing players to carry more items and organize their inventory efficiently.",
+      "author": "P3pp3rF1y",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/sophisticatedbackpacks-1.21-3.20.26.1151.jar"
     },
     {
-      "name": "krypton-fabric.jar",
-      "version": "0.2.9",
-      "description": "Krypton is a performance optimization mod for Minecraft.",
-      "author": "Krypton Team",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/krypton-0.2.9.jar"
+      "name": "sophisticatedcore-1.21.jar",
+      "version": "19.25.1.332",
+      "description": "Sophisticated Core is a mod that provides core functionalities and libraries for the Sophisticated Backpacks mod, ensuring smooth integration and performance.",
+      "author": "P3pp3rF1y",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/sophisticatedcore-1.21-0.7.13.797.jar"
     },
     {
-      "name": "memory-leaks-fix.jar",
-      "version": "1.1.5",
-      "description": "A mod to fix memory leaks in Minecraft.",
-      "author": "MemoryFix Team",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
-    },
-    {
-      "name": "nochat-reports-fabric.jar",
-      "version": "2.9.1",
-      "description": "A mod to disable chat reports in Minecraft.",
-      "author": "NoChatReports Team",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/NoChatReports-FABRIC-1.21.1-v2.9.1.jar"
-    },
-    {
-      "name": "voice-chat-fabric.jar",
-      "version": "1.21.1-2.6.6",
-      "description": "A mod that adds voice chat functionality to Minecraft.",
-      "author": "Team Voice Chat",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/voicechat-fabric-1.21.1-2.6.6.jar"
+      "name": "XaerosWorldMap.jar",
+      "version": "1.39.4",
+      "description": "Xaero's World Map is a mod that adds a detailed world map to Minecraft, helping players navigate and explore their surroundings more effectively.",
+      "author": "Xaero96",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/XaerosWorldMap_1.39.4_NeoForge_1.21.jar"
     }
   ]
 }
