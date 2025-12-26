@@ -1,6 +1,6 @@
 {
   "mod_pack_name": "TCraft Mod Pack",
-  "mod_pack_version": "1.2.0",
+  "mod_pack_version": "1.2.1",
   "mods": [
     {
       "name": "Almanac.jar",
@@ -63,7 +63,9 @@
       "version": "2.0.0-beta.12",
       "description": "Connector allows Fabric mods to run on NeoForge.",
       "author": "Su5eD",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/connector-2.0.0-beta.12+1.21.1-full.jar"
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/connector-2.0.0-beta.12+1.21.1-full.jar",
+      "configName": "fabric_loader_dependencies.json",
+      "configUrl": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/config/fabric_loader_dependencies.json"
     },
     {
       "name": "create.jar",
