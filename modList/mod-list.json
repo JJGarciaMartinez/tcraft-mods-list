@@ -1,6 +1,6 @@
 {
   "mod_pack_name": "TCraft Mod Pack",
-  "mod_pack_version": "test-beta-1.0.1",
+  "mod_pack_version": "1.2.0",
   "mods": [
     {
       "name": "Almanac.jar",
@@ -17,11 +17,32 @@
       "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/amendments-1.21-2.0.13-neoforge.jar"
     },
     {
+      "name": "apothic_equipment.jar",
+      "version": "1.0.0",
+      "description": "Apothic Equipment adds new equipment and armor sets to Minecraft.",
+      "author": "Apothic",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/apothic_equipment-1.0.0-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "apothic_materials.jar",
+      "version": "1.0.0",
+      "description": "Apothic Materials adds new materials and resources to the game.",
+      "author": "Apothic",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/apothic_materials-1.0.0-neoforge-1.21.1.jar"
+    },
+    {
       "name": "architectury.jar",
       "version": "13.0.8",
       "description": "Architectury is a library mod that provides a common API for mods to work across different mod loaders.",
       "author": "shedaniel",
       "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/architectury-13.0.8-neoforge.jar"
+    },
+    {
+      "name": "beautifiedchatserver.jar",
+      "version": "3.1",
+      "description": "Beautified Chat Server enhances the chat interface with improved visuals and formatting.",
+      "author": "Motschen",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/beautifiedchatserver-1.21.1-3.1.jar"
     },
     {
       "name": "betterarcheology.jar",
@@ -31,11 +52,74 @@
       "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/betterarcheology-neoforge-1.21.1-1.3.4.jar"
     },
     {
+      "name": "collective.jar",
+      "version": "8.13",
+      "description": "Collective is a library mod that provides shared code for Serilum's mods.",
+      "author": "Serilum",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/collective-1.21.1-8.13.jar"
+    },
+    {
+      "name": "connector.jar",
+      "version": "2.0.0-beta.12",
+      "description": "Connector allows Fabric mods to run on NeoForge.",
+      "author": "Su5eD",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/connector-2.0.0-beta.12+1.21.1-full.jar"
+    },
+    {
       "name": "create.jar",
       "version": "6.0.8",
       "description": "Create is a mod that adds a variety of new mechanical components and systems to Minecraft, allowing players to build complex contraptions and machines.",
       "author": "simibubi",
       "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/create-mod.jar"
+    },
+    {
+      "name": "create_blaze_burner_fuels.jar",
+      "version": "1.0.1",
+      "description": "Create Blaze Burner Fuels adds more fuel options for Create's blaze burners.",
+      "author": "Penguin",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/create_blaze_burner_fuels-1.0.1-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "create_copper_and_zinc.jar",
+      "version": "1.6.5",
+      "description": "Create Copper and Zinc adds new copper and zinc related features to Create.",
+      "author": "MythrilBagels",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/create_copper_and_zinc-1.6.5-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "create_generators.jar",
+      "version": "1.2.5",
+      "description": "Create Generators adds various power generation options for Create.",
+      "author": "Penguin",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/create_generators-1.2.5-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "create_ironworks.jar",
+      "version": "4.0.1",
+      "description": "Create Ironworks adds industrial processing equipment to Create.",
+      "author": "Penguin",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/create_ironworks-4.0.1-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "create_more_additions.jar",
+      "version": "1.6.5",
+      "description": "Create More Additions adds extra blocks and features to Create.",
+      "author": "MythrilBagels",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/create_more_additions-1.6.5-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "create_ultimate_factory.jar",
+      "version": "2.2.2",
+      "description": "Create Ultimate Factory adds advanced automation components to Create.",
+      "author": "Penguin",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/create_ultimate_factory-2.2.2-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "create_winery.jar",
+      "version": "1.9.0",
+      "description": "Create Winery adds wine and alcohol production mechanics to Create.",
+      "author": "Penguin",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/create_winery-1.9.0-neoforge-1.21.1.jar"
     },
     {
       "name": "cristellib.jar",
@@ -48,6 +132,374 @@
       "name": "curios.jar",
       "version": "9.5.1",
       "description": "Curios is a mod that introduces a new inventory system in Minecraft, allowing players to equip and manage various accessories and items in additional slots.",
+      "author": "TheIllusiveC4",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/curios-api.jar"
+    },
+    {
+      "name": "dungeons_and_taverns.jar",
+      "version": "4.4.4",
+      "description": "Dungeons and Taverns adds new dungeon structures and tavern buildings to the Minecraft world.",
+      "author": "Nova",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/dungeons-and-taverns-v4.4.4%20%5BNeoForge%5D.jar"
+    },
+    {
+      "name": "endersdelight.jar",
+      "version": "1.1.0",
+      "description": "Ender's Delight adds new food items and cooking recipes inspired by The End dimension.",
+      "author": "NullaDev",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/endersdelight-neoforge-1.21.1-1.1.0.jar"
+    },
+    {
+      "name": "entityculling.jar",
+      "version": "1.9.4",
+      "description": "Entity Culling improves performance by not rendering entities that are not visible to the player.",
+      "author": "tr9zw",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/entityculling-neoforge-1.9.4-mc1.21.1.jar"
+    },
+    {
+      "name": "FarmersDelight.jar",
+      "version": "1.2.9",
+      "description": "Farmer's Delight is a mod that enhances the farming and cooking experience in Minecraft by adding new crops, food items, and cooking mechanics.",
+      "author": "vectorwing",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/FarmersDelight.jar"
+    },
+    {
+      "name": "ferritecore.jar",
+      "version": "7.0.2",
+      "description": "Ferrite Core is a memory usage optimization mod that reduces the memory footprint of Minecraft.",
+      "author": "malte0811",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/ferritecore-7.0.2-neoforge.jar"
+    },
+    {
+      "name": "forgified_fabric_api.jar",
+      "version": "0.115.6",
+      "description": "Forgified Fabric API provides Fabric API compatibility for NeoForge.",
+      "author": "Su5eD",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/forgified-fabric-api-0.115.6+2.1.4+1.21.1.jar"
+    },
+    {
+      "name": "friendsandfoes.jar",
+      "version": "4.0.18",
+      "description": "Friends & Foes adds new mobs and creatures to Minecraft, including both friendly and hostile entities.",
+      "author": "Faboslav",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/friendsandfoes-neoforge-4.0.18+mc1.21.1.jar"
+    },
+    {
+      "name": "geckolib.jar",
+      "version": "4.8.2",
+      "description": "GeckoLib is an animation library for Minecraft mods, enabling complex entity animations.",
+      "author": "Gecko",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/geckolib-neoforge-1.21.1-4.8.2.jar"
+    },
+    {
+      "name": "Geophilic.jar",
+      "version": "3.4.5",
+      "description": "Geophilic is a biome mod that adds new landscapes and environmental features to Minecraft.",
+      "author": "Dazurine",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/Geophilic%20v3.4.5.mod.jar"
+    },
+    {
+      "name": "Iceberg.jar",
+      "version": "1.3.2",
+      "description": "Iceberg is a library mod that provides utilities and shared code for other mods.",
+      "author": "Grend_G",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/Iceberg-1.21.1-neoforge-1.3.2.jar"
+    },
+    {
+      "name": "ImmediatelyFast.jar",
+      "version": "1.6.9",
+      "description": "Immediately Fast is a performance optimization mod that improves game rendering speed.",
+      "author": "RaphiMC",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/ImmediatelyFast-NeoForge-1.6.9+1.21.1.jar"
+    },
+    {
+      "name": "iris.jar",
+      "version": "1.8.12",
+      "description": "Iris is a shader mod that adds support for OptiFine shader packs with improved performance.",
+      "author": "IMS",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/iris-neoforge-1.8.12+mc1.21.1.jar"
+    },
+    {
+      "name": "jei.jar",
+      "version": "19.25.1.332",
+      "description": "Just Enough Items (JEI) is a mod that provides an in-game recipe viewer and item list, making it easier for players to discover crafting recipes and item uses.",
+      "author": "mezz",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/jei-1.21.1.jar"
+    },
+    {
+      "name": "LegendaryTooltips.jar",
+      "version": "1.5.5",
+      "description": "Legendary Tooltips enhances item tooltips with borders and visual effects to make items stand out.",
+      "author": "Grend_G",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"
+    },
+    {
+      "name": "letmedespawn.jar",
+      "version": "1.5.0",
+      "description": "Let Me Despawn improves entity management by allowing entities to despawn properly.",
+      "author": "frikinjay",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/letmedespawn-1.21.x-neoforge-1.5.0.jar"
+    },
+    {
+      "name": "lithium.jar",
+      "version": "0.15.1",
+      "description": "Lithium is a performance optimization mod that improves various game systems without changing gameplay.",
+      "author": "2No2Name",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/lithium-neoforge-0.15.1+mc1.21.1.jar"
+    },
+    {
+      "name": "medieval_buildings_end_edition.jar",
+      "version": "1.0.4",
+      "description": "Medieval Buildings End Edition adds medieval-style structures to The End dimension.",
+      "author": "Aurelium",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/medieval_buildings_end_edition-1.21.1-1.0.4-neoforge.jar"
+    },
+    {
+      "name": "modernfix.jar",
+      "version": "5.25.1",
+      "description": "ModernFix is a performance optimization mod that fixes bugs and improves game startup time.",
+      "author": "embeddedt",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/modernfix-neoforge-5.25.1+mc1.21.1.jar"
+    },
+    {
+      "name": "moonlight.jar",
+      "version": "2.28.2",
+      "description": "Moonlight is a library mod that provides common utilities and features for other mods.",
+      "author": "MehVahdJukaar",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/moonlight-1.21-2.28.2-neoforge.jar"
+    },
+    {
+      "name": "moogs_structures.jar",
+      "version": "1.1.0",
+      "description": "Moog's Structures adds various new structure types to the Minecraft world.",
+      "author": "Moog",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/moogs_structures-1.1.0-1.21-1.21.1-neoforge.jar"
+    },
+    {
+      "name": "MoogsEndStructures.jar",
+      "version": "2.0.1",
+      "description": "Moog's End Structures adds new structures to The End dimension.",
+      "author": "Moog",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/MoogsEndStructures-1.21-2.0.1.jar"
+    },
+    {
+      "name": "MoogsVoyagerStructures.jar",
+      "version": "5.0.3",
+      "description": "Moog's Voyager Structures adds exploration-focused structures to the Overworld.",
+      "author": "Moog",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/MoogsVoyagerStructures-1.21-5.0.3.jar"
+    },
+    {
+      "name": "nvidium.jar",
+      "version": "0.3.1",
+      "description": "Nvidium is a performance optimization mod specifically designed for NVIDIA GPUs to maximize rendering performance.",
+      "author": "MCRcortex",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/nvidium-0.3.1.jar"
+    },
+    {
+      "name": "Prism.jar",
+      "version": "1.0.11",
+      "description": "Prism is a library mod that provides shared functionality for other mods.",
+      "author": "Grend_G",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/Prism-1.21.1-neoforge-1.0.11.jar"
+    },
+    {
+      "name": "RapidLeafDecay.jar",
+      "version": "3.0.0",
+      "description": "Rapid Leaf Decay makes leaves decay faster after breaking a tree.",
+      "author": "Serilum",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/RapidLeafDecay-1.21.1-3.0.0.jar"
+    },
+    {
+      "name": "repurposed_structures.jar",
+      "version": "7.5.17",
+      "description": "Repurposed Structures adds new variants of vanilla structures in different biomes.",
+      "author": "TelepathicGrunt",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/repurposed_structures-7.5.17+1.21.1-neoforge.jar"
+    },
+    {
+      "name": "resourcefulconfig.jar",
+      "version": "3.0.11",
+      "description": "Resourceful Config is a library mod that provides configuration management for other mods.",
+      "author": "ThatGravyBoat",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/resourcefulconfig-neoforge-1.21-3.0.11.jar"
+    },
+    {
+      "name": "resourcefullib.jar",
+      "version": "3.0.12",
+      "description": "Resourceful Lib is a library mod that provides common utilities for other mods.",
+      "author": "ThatGravyBoat",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/resourcefullib-neoforge-1.21-3.0.12.jar"
+    },
+    {
+      "name": "Ribbits.jar",
+      "version": "4.1.6",
+      "description": "Ribbits adds new frog variants and related features to Minecraft.",
+      "author": "Sodacan",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/Ribbits-1.21.1-NeoForge-4.1.6.jar"
+    },
+    {
+      "name": "seadwellers.jar",
+      "version": "1.0.0",
+      "description": "Seadwellers adds new aquatic mobs and underwater features to Minecraft.",
+      "author": "Sodacan",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/seadwellers-1.0.0-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "sodium.jar",
+      "version": "0.6.13",
+      "description": "Sodium is a rendering optimization mod that significantly improves game performance and FPS.",
+      "author": "JellySquid",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
+    },
+    {
+      "name": "sodiumdynamiclights.jar",
+      "version": "1.0.10",
+      "description": "Sodium Dynamic Lights adds dynamic lighting effects compatible with Sodium.",
+      "author": "LambdAurora",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
+    },
+    {
+      "name": "sodiumextras.jar",
+      "version": "1.0.8",
+      "description": "Sodium Extras adds additional features and optimizations to complement Sodium.",
+      "author": "FlashyReese",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/sodiumextras-neoforge-1.0.8-1.21.1.jar"
+    },
+    {
+      "name": "sol_valheim_reforged.jar",
+      "version": "1.1.3",
+      "description": "Sol Valheim Reforged adds Valheim-inspired content to Minecraft.",
+      "author": "Sol",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/sol_valheim_reforged-1.1.3-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "sophisticatedbackpacks.jar",
+      "version": "3.25.18.1444",
+      "description": "Sophisticated Backpacks is a mod that adds customizable backpacks to Minecraft, allowing players to carry more items and organize their inventory efficiently.",
+      "author": "P3pp3rF1y",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/sophisticatedbackpacks-1.21.1.jar"
+    },
+    {
+      "name": "sophisticatedcore.jar",
+      "version": "1.3.94.1295",
+      "description": "Sophisticated Core is a mod that provides core functionalities and libraries for the Sophisticated Backpacks mod, ensuring smooth integration and performance.",
+      "author": "P3pp3rF1y",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/sophisticatedcore-1.21.1.jar"
+    },
+    {
+      "name": "sound-physics-remastered.jar",
+      "version": "1.5.1",
+      "description": "Sound Physics Remastered adds realistic sound physics and acoustics to Minecraft.",
+      "author": "henkelmax",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
+    },
+    {
+      "name": "Stellarity.jar",
+      "version": "3.0.6.1",
+      "description": "Stellarity enhances The End dimension with new structures, biomes, and features.",
+      "author": "Joshcraft2002",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/Stellarity-3.0.6.1.jar"
+    },
+    {
+      "name": "Structory.jar",
+      "version": "1.3.12",
+      "description": "Structory adds a variety of new structures to enhance world generation and exploration.",
+      "author": "Botarium",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/Structory_1.21.x_v1.3.12.jar"
+    },
+    {
+      "name": "Structory_Towers.jar",
+      "version": "1.0.14",
+      "description": "Structory Towers adds new tower structures to the Minecraft world.",
+      "author": "Botarium",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/Structory_Towers_1.21.x_v1.0.14.jar"
+    },
+    {
+      "name": "supplementaries.jar",
+      "version": "3.5.14",
+      "description": "Supplementaries adds various decorative and functional blocks to enhance building and gameplay.",
+      "author": "MehVahdJukaar",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/supplementaries-1.21-3.5.14-neoforge.jar"
+    },
+    {
+      "name": "t_and_t.jar",
+      "version": "1.13.7",
+      "description": "Towns and Towers adds new village structures and defensive towers to Minecraft.",
+      "author": "Biban_Auriu",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar"
+    },
+    {
+      "name": "TerraBlender.jar",
+      "version": "4.1.0.8",
+      "description": "TerraBlender is a library mod that enables biome integration for other world generation mods.",
+      "author": "Glitchfiend",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+    },
+    {
+      "name": "Terralith.jar",
+      "version": "2.5.8",
+      "description": "Terralith is a massive biome mod that completely overhauls the Overworld's generation with hundreds of new biomes.",
+      "author": "Stardust",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/Terralith_1.21.x_v2.5.8.jar"
+    },
+    {
+      "name": "valheim_delight.jar",
+      "version": "1.0.0",
+      "description": "Valheim Delight adds Valheim-themed food and cooking recipes to Minecraft.",
+      "author": "NullaDev",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/valheim_delight-1.0.0-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "voicechat.jar",
+      "version": "2.6.10",
+      "description": "Simple Voice Chat adds proximity voice chat functionality to Minecraft.",
+      "author": "henkelmax",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/voicechat-neoforge-1.21.1-2.6.10.jar"
+    },
+    {
+      "name": "XaerosWorldMap.jar",
+      "version": "1.39.12",
+      "description": "Xaero's World Map is a mod that adds a detailed world map to Minecraft, helping players navigate and explore their surroundings more effectively.",
+      "author": "Xaero96",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/XaerosWorldMap.jar"
+    },
+    {
+      "name": "yet_another_config_lib_v3.jar",
+      "version": "3.8.1",
+      "description": "Yet Another Config Library (YACL) is a library mod that provides configuration management for other mods.",
+      "author": "isXander",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/yet_another_config_lib_v3-3.8.1+1.21.1-neoforge.jar"
+    },
+    {
+      "name": "YungsApi.jar",
+      "version": "5.1.6",
+      "description": "YUNG's API is a library mod that provides shared functionality for YUNG's structure mods.",
+      "author": "YUNGNICKYOUNG",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/YungsApi-1.21.1-NeoForge-5.1.6.jar"
+    },
+    {
+      "name": "YungsBetterCaves.jar",
+      "version": "3.1.4",
+      "description": "YUNG's Better Caves completely overhauls cave generation with more varied and interesting cave systems.",
+      "author": "YUNGNICKYOUNG",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/YungsBetterCaves-1.21.1-NeoForge-3.1.4.jar"
+    },
+    {
+      "name": "YungsBetterNetherFortresses.jar",
+      "version": "3.1.5",
+      "description": "YUNG's Better Nether Fortresses redesigns Nether Fortresses to be larger and more interesting.",
+      "author": "YUNGNICKYOUNG",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar"
+    },
+    {
+      "name": "YungsCaveBiomes.jar",
+      "version": "3.1.1",
+      "description": "YUNG's Cave Biomes adds new underground biomes with unique features and generation.",
+      "author": "YUNGNICKYOUNG",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar"
+    },
+    {
       "author": "TheIllusiveC4",
       "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/curios-api.jar"
     },
