@@ -1,6 +1,6 @@
 {
   "mod_pack_name": "TCraft Mod Pack",
-  "mod_pack_version": "1.2.1",
+  "mod_pack_version": "1.2.2",
   "mods": [
     {
       "name": "Almanac.jar",
@@ -784,13 +784,6 @@
       "description": "Terralith is a massive biome mod that completely overhauls the Overworld's generation with hundreds of new biomes.",
       "author": "Stardust",
       "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/Terralith_1.21.x_v2.5.8.jar"
-    },
-    {
-      "name": "voicechat.jar",
-      "version": "2.6.10",
-      "description": "Simple Voice Chat adds proximity voice chat functionality to Minecraft.",
-      "author": "henkelmax",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/voicechat-neoforge-1.21.1-2.6.10.jar"
     },
     {
       "name": "XaerosWorldMap.jar",
