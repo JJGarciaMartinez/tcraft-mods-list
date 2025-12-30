@@ -453,13 +453,6 @@
       "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/valheim_delight-1.0.0-neoforge-1.21.1.jar"
     },
     {
-      "name": "voicechat.jar",
-      "version": "2.6.10",
-      "description": "Simple Voice Chat adds proximity voice chat functionality to Minecraft.",
-      "author": "henkelmax",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/voicechat-neoforge-1.21.1-2.6.10.jar"
-    },
-    {
       "name": "XaerosWorldMap.jar",
       "version": "1.39.12",
       "description": "Xaero's World Map is a mod that adds a detailed world map to Minecraft, helping players navigate and explore their surroundings more effectively.",
