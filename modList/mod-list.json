@@ -70,7 +70,9 @@
       "version": "2.0.0-beta.12",
       "description": "Connector allows Fabric mods to run on NeoForge.",
       "author": "Su5eD",
-      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/connector-2.0.0-beta.12+1.21.1-full.jar"
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/connector-2.0.0-beta.12+1.21.1-full.jar",
+      "configName": "fabric_loader_dependencies.json",
+      "configUrl": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/config/fabric_loader_dependencies.json"
     },
     {
       "name": "create.jar",
@@ -484,6 +486,13 @@
       "description": "Valheim Delight adds Valheim-themed food and cooking recipes to Minecraft.",
       "author": "NullaDev",
       "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/valheim_delight-1.0.0-neoforge-1.21.1.jar"
+    },
+    {
+      "name": "vanillareducer.jar",
+      "version": "1.0.0",
+      "description": "Vanilla Reducer reduces the effectiveness of vanilla weapons and armor by 75%. This mod affects armor protection, toughness, knockback resistance, as well as sword damage, attack speed, and attack knockback.",
+      "author": "JuanJGM",
+      "url": "https://raw.github.com/JJGarciaMartinez/tcraft-mods-list/main/modList/mods/vanillareducer-1.0.0.jar"
     },
     {
       "name": "XaerosWorldMap.jar",
